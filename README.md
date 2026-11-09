@@ -15,7 +15,7 @@ Ver online: https://baptistaw.github.io/endourologia-3d/ · todas las animacione
 | Vejiga | Resección de tumor de vejiga (RTU bipolar) | [#rtu-vejiga](https://baptistaw.github.io/endourologia-3d/#rtu-vejiga) |
 | Vejiga | Cálculo de vejiga (cistolitotricia con láser) | [#cistolitotricia](https://baptistaw.github.io/endourologia-3d/#cistolitotricia) |
 | Próstata | Resección de próstata (RTU bipolar) | [#rtu-prostata](https://baptistaw.github.io/endourologia-3d/#rtu-prostata) |
-| Próstata | Vaporización de próstata con láser | [#vaporizacion-prostata](https://baptistaw.github.io/endourologia-3d/#vaporizacion-prostata) |
+| Próstata | Vapor de agua (Rezum) | [#rezum](https://baptistaw.github.io/endourologia-3d/#rezum) |
 | Uretra | Uretrotomía interna (cuchilla fría a las 12) | [#uretrotomia](https://baptistaw.github.io/endourologia-3d/#uretrotomia) |
 | Uretra | Dilatación con balón con medicamento | [#dilatacion-balon](https://baptistaw.github.io/endourologia-3d/#dilatacion-balon) |
 
