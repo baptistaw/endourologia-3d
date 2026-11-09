@@ -16,7 +16,7 @@ Ver online: https://baptistaw.github.io/endourologia-3d/ · todas las animacione
 | Vejiga | Cálculo de vejiga (cistolitotricia con láser) | [#cistolitotricia](https://baptistaw.github.io/endourologia-3d/#cistolitotricia) |
 | Próstata | Resección de próstata (RTU bipolar) | [#rtu-prostata](https://baptistaw.github.io/endourologia-3d/#rtu-prostata) |
 | Próstata | Vapor de agua (Rezum) | [#rezum](https://baptistaw.github.io/endourologia-3d/#rezum) |
-| Uretra | Uretrotomía interna (cuchilla fría a las 12) | [#uretrotomia](https://baptistaw.github.io/endourologia-3d/#uretrotomia) |
+| Uretra | Uretrotomía interna con láser (a las 12) | [#uretrotomia](https://baptistaw.github.io/endourologia-3d/#uretrotomia) |
 | Uretra | Dilatación con balón con medicamento | [#dilatacion-balon](https://baptistaw.github.io/endourologia-3d/#dilatacion-balon) |
 
 Cada animación tiene la vista 3D, la cámara del endoscopio y, cuando se usa, la radioscopia del arco en C. Se puede reproducir, pausar, ir a cualquier paso, girar el modelo y agrandar las pantallas. Funciona en el celular.
